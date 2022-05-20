@@ -1,1 +1,1 @@
-web: gunicorn addresshashing.wsgi --log-file -
+web: gunicorn addresshashing.wsgi:app --log-file -
