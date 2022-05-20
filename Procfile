@@ -1,0 +1,1 @@
+web: gunicorn addresshashing.wsgi --log-file - --log-level debug --bind
