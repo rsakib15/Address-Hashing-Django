@@ -1,1 +1,1 @@
-web: gunicorn addresshashing.wsgi:app --log-file - --log-level debug --bind
+web: gunicorn addresshashing.wsgi --log-file -
