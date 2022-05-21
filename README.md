@@ -11,9 +11,9 @@
         Hash = (this needs to have no max length)
 
 ##### Endpoints:
-**GET** - I need to be able to fetch a user by their address and return the hash.\
+**GET** - able to fetch a user by their address and return the hash.\
 **POST** - I need to be able to add users and their hashes Preferably by csv or list if possible.\
 **PUT** - I need to be able to look up a users address and update their hash.\
 
 ##### Deployment:
-Have to deployed it on Heroku. That’s it! No frontend needed.
+Deployed it on Heroku. That’s it! No frontend implemented.
