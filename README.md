@@ -1,6 +1,5 @@
 # Adress-Hashing-Django
 
-Fiverr order number: #FO4E3E25F1C2
 ### Requirements
 
 
